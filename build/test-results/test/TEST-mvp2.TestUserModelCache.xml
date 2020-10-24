@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mvp2.TestUserModelCache" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-23T11:27:02" hostname="MacBook-Pro-2.local" time="0.015">
+  <properties/>
+  <testcase name="loadAllUsers" classname="mvp2.TestUserModelCache" time="0.014"/>
+  <testcase name="saveUserInfo" classname="mvp2.TestUserModelCache" time="0.0"/>
+  <testcase name="clear" classname="mvp2.TestUserModelCache" time="0.0"/>
+  <testcase name="getUserById" classname="mvp2.TestUserModelCache" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
